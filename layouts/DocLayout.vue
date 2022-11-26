@@ -14,8 +14,10 @@
     <div class="lg:pl-[19.5rem]">
       <!-- ['xs', 'sm', 'md'].includes($mq) ||  -->
       <div class="max-w-3xl mx-auto pt-10 xl:max-w-none xl:ml-0 xl:mr-[15.5rem] xl:pr-16">
-        <!-- <ThemeSelector></ThemeSelector>
-        <ColorMode /> -->
+        <!-- 
+          Here comes the markdown-doc.
+          Input a header here if you want to.
+        -->
         <slot />
         <hr>
         <div class="flex items-center justify-between gap-3 mt-3">
