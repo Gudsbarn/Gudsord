@@ -1,5 +1,7 @@
 ---
-title: '18 Epistel; 1.Kor.1,4-9'
+template: default
+menu: '18 Epistel; 1.Kor.1,4-9'
+title: '18.sunday efter trinitatis - Epistel'
 description: '1 Kor 1, 4-9 (4-8): Jeg takker altid min Gud for jer, for den nåde, som han har givet jer i Kristus Jesus. ...'
 tags: [epistel, trinitatis]
 language: 'da'

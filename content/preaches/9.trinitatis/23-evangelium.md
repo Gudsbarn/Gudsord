@@ -123,7 +123,6 @@ På samme måde er der også mange blandt vore, som trykker og plager de fattige
 Men hvordan vil det gå til sidst, når dommens tid kommer? For hvad er dette, at Gud uafladelig skal råbe og prædike: Giv dog Gud og kejseren, og det skal dog alt sammen være forgæves? Mon han bestandig skal lade sig sådan holde for nar og tåle, at man træder hans ord under fødder? Der må jo til sidst engang regne idel syndflod, torden, lyn og helvedes ild ned over verden. Anderledes kan og bør det ikke være, fordi den med sådan frækhed, uden al samvittighed fremturer i sit tyveri, mod Guds og kejserens ret. Af et enkelt tyveri gør den et dobbelt, idet den oven i købet vil forsvare og ikke hindre eller straffe det. Det skal og kan Gud ikke tåle. Måtte han kun i nåde tage os og vore bort herfra, så vi ikke må se den kommende jammer og straf! For denne synd er overstrømmende stor, så den godt kunne kaldes en hel verden fuld af synd, ja så stor og mangfoldig, at der ikke findes så meget løv og græs på jorden. Men Gud bevare og forløse os derfra og give, at vi alvorlig må holde os til hans ord, så vi ikke må blive liggende i sådan skammelig last! 
 
 ## Amen
-
 <!-- 
 Dr. Martin Luther's Kirke-Postille 
 Original source: https://lutherdansk.dk

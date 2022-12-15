@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "gudsord",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Gudsord fra bl.a. Dr. Martin Luthers kirkepostille mv.",
   "repository": {
     "type": "git",
@@ -26,13 +26,6 @@
   "directories": {
     "preaches": "content/post",
     "pages": "content/page"
-  },
-  "scripts": {
-    "build": "nuxt build",
-    "dev": "nuxt dev",
-    "generate": "nuxt generate",
-    "preview": "nuxt preview",
-    "deploy": "gh-pages -d dist"
   },
   "devDependencies": {
     "@headlessui/vue": "^1.7.4",
@@ -71,5 +64,11 @@
     "vite-svg-loader": "^3.6.0",
     "vue-tsc": "^1.0.9"
   },
-  "dependencies": {}
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "deploy": "gh-pages -d dist"
+  }
 }
