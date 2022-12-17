@@ -3,7 +3,7 @@
     <input id="my-drawer" type="checkbox" class="drawer-toggle" />
     <div class="drawer-content" id="app-main-content">
       <AppHeader></AppHeader>
-      <!-- <GudsordAnimLoading /> -->
+      <!-- Logo /> -->
       <NuxtLayout name="doc-layout">
         <ContentDoc id="content-wrapper" class="relative z-20 mt-8 prose dark:prose-invert" />
       </NuxtLayout>

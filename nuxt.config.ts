@@ -8,15 +8,6 @@ import pkg from './package.json'
 export default defineNuxtConfig({
   content: {
     documentDriven: true,
-    markdown: {},
-    highlight: {
-      preload: ['diff', 'json', 'js', 'ts', 'css', 'shell', 'html', 'md', 'yaml'],
-      theme: {
-        default: 'dracula-soft',
-        dark: 'github-dark',
-        sepia: 'monokai'
-      }
-    }
   },
   alias: {
     '@svg': fileURLToPath(new URL('./assets/svg', import.meta.url)),
@@ -43,21 +34,17 @@ export default defineNuxtConfig({
     }
   },
   colorMode: {
-    preference: 'system', // default value of $colorMode.preference
-    fallback: 'light', // fallback value if not system preference found
-    hid: 'nuxt-color-mode-script',
-    globalName: '__NUXT_COLOR_MODE__',
-    componentName: 'ColorScheme',
-    classPrefix: '',
     classSuffix: '',
-    storageKey: 'nuxt-color-mode'
   },
   components: {
        global: true,
       dirs: ['~/components']
   },
   plugins: [],
-  css: [resolve(__dirname, './assets/nuxt.css')],
+  css: [
+    '~/assets/css/tailwind.css',
+    '~/assets/css/main.css'
+  ],
   app: {
     head: {
       htmlAttrs: { lang: "en" },
@@ -84,12 +71,6 @@ export default defineNuxtConfig({
       ],
     }
   },
-  /*
-  googleFonts: {
-    families: {
-      Inter: true
-    }
-  },*/
   tailwindcss: {
     config: {
       content: [

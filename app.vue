@@ -6,5 +6,5 @@
 </template>
 
 <script setup>
-import NuxtLoadingIndicator from "~/components/NuxtLoadingIndicator";
+import NuxtLoadingIndicator from "~/assets/scripts/NuxtLoadingIndicator";
 </script>

@@ -1,8 +1,9 @@
 :root {
-  --header-height: theme('spacing.14');
-  --docs-scroll-margin-block: calc(var(--header-height) + 4rem);
+  --header-height: theme('spacing.14'); /* tailwind.config.ts */
+  --docs-scroll-margin-block: calc(var(--header-height) + 40rem);
   --blogpost-scroll-margin-block: calc(var(--header-height));
 }
+
 html {
   scroll-behavior: smooth;
 }
@@ -13,7 +14,7 @@ html {
 
 @screen md {
   :root {
-    --header-height: theme('spacing.20');
+    --header-height: theme('spacing.20'); /* tailwind.config.ts */
     --blogpost-scroll-margin-block: calc(var(--header-height) - 0.5rem);
   }
 }
@@ -44,9 +45,6 @@ html {
   color: #433422;
 }
 
-.prose-slate{
-
-}
 button:focus-visible, div:focus-visible, a:focus-visible {
   /* remove default focus style */
   outline: none;
